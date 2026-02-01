@@ -1,2 +1,21 @@
-# global-retail-profitability-analysis
-End-to-end data analysis project using Python, SQL, and Power BI on Global Superstore data
+global-retail-profitability-analysis/
+│
+├── data/
+│   ├── orders_cleaned.csv
+│   ├── returns_cleaned.csv
+│   └── people_cleaned.csv
+│
+├── python/
+│   └── data_cleaning_analysis.ipynb
+│
+├── sql/
+│   └── analysis_queries.sql
+│
+├── powerbi/
+│   └── global_retail_dashboard.pbix
+│
+├── screenshots/
+│   └── dashboard.png
+│
+└── README.md
+
