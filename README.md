@@ -130,15 +130,6 @@ A Linear Regression model was built to predict order-level profit using key busi
 - Return Rates by Region
 - ML Profit Prediction (R², MAE)
 
----
-
-##  Dashboard Preview
-
-**Power BI Dashboard**
-![Power BI Dashboard](screenshots/powerbi_dashboard.png)
-
-**Tableau Dashboard**
-![Tableau Dashboard](screenshots/tableau_dashboard.png)
 
 ---
 
