@@ -97,7 +97,7 @@ A statistical hypothesis test was conducted to answer: **does offering a discoun
 - **Group A (Control):** Orders with discount ≤ 20%
 - **Group B (Treatment):** Orders with discount > 20%
 - **Test used:** Independent samples t-test (`scipy.stats.ttest_ind`)
-- **Result:** p-value = 0.0000 (< 0.05) → **statistically significant**
+- **Result:** p-value = 0.001 (< 0.05) → **statistically significant**
 - **Conclusion:** High discounts (>20%) have a statistically proven negative impact on profit, providing quantitative backing for pricing strategy changes
 
 ### Machine Learning — Profit Prediction (Linear Regression)
